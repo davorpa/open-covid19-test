@@ -6,11 +6,13 @@ Puedes acceder a él a través de este enlace: https://celiavelmar.github.io/ope
 
 ### Aplicación de la Comunidad de Madrid
 
-[La aplicación de autoevaluación de la Comunidad de Madrid para COVID-19: es oficial, da acceso a tus datos a empresas privadas y no los anonimiza](https://maldita.es/malditatecnologia/2020/03/20/aplicacion-madrid-coronavirus-oficial-comparte-datos-empresas/)
+[La aplicación de autoevaluación de la Comunidad de Madrid para COVID-19: es oficial, da acceso a tus datos a empresas privadas y no los anonimiza](http://archive.is/k5x1L)
+
+Ante las críticas, la Comunidad de Madrid ha actualizado el Aviso de Privacidad de la aplicación (22/03/2020): [La Comunidad de Madrid modifica el aviso de privacidad de su app móvil para COVID-19: amplía las finalidades de uso de los datos y cuándo los anonimiza](https://maldita.es/malditatecnologia/2020/03/24/aplicacion-madrid-coronavirus-oficial-comparte-datos-empresas/)
 
 ### Ingeniería inversa
 
-Haciendo un poco de ingeniería inversa me he topado con el enrevesado algoritmo para el que se ha necesitado la colaboración de, al menos, seis multinacionales (según consta en la propia web de la aplicación): Google, Telefónica, Goggo Network, Ferrovial, Carto, Forcemanager y Mendesaltren.
+Haciendo un poco de "ingeniería inversa" me he topado con el enrevesado algoritmo para el que se ha necesitado la colaboración de, al menos, seis multinacionales (según consta en la propia web de la aplicación): Google, Telefónica, Goggo Network, Ferrovial, Carto, Forcemanager y Mendesaltren.
 
 El algoritmo es el siguiente:
 
